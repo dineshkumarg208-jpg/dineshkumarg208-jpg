@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Dinesh Kumar G]
 
 ### 🚀 About Me
 * 🔹 Focused on building high-performance applications
@@ -34,5 +34,5 @@
 ---
 
 ### 📬 Let's Connect
-* 💼 **LinkedIn**: [linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE)
+* 💼 **LinkedIn**: [linkedin.com/in/dinesh-kumar-g-b6137b387?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/dinesh-kumar-g-b6137b387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
